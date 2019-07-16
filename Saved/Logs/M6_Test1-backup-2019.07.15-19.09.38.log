@@ -1,0 +1,1478 @@
+﻿Log file open, 07/15/19 13:39:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: M6_Test1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.433311
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.15-12.39.10:299][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.15-12.39.10:299][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.15-12.39.10:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:300][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.15-12.39.10:300][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:300][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:302][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.15-12.39.10:303][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.15-12.39.10:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.15-12.39.10:323][  0]LogHAL: Display: Platform has ~ 16 GB [16918581248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.15-12.39.10:323][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.15-12.39.10:323][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.15-12.39.10:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.15-12.39.10:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.15-12.39.10:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.15-12.39.10:326][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.15-12.39.10:327][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.15-12.39.10:327][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.15-12.39.10:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Config/Windows/Engine.ini]
+[2019.07.15-12.39.10:327][  0]LogInit: Computer: BCUL2-008530
+[2019.07.15-12.39.10:327][  0]LogInit: User: YsabelaBathanADM
+[2019.07.15-12.39.10:327][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.07.15-12.39.10:327][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.15-12.39.10:327][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.07.15-12.39.10:327][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.15-12.39.10:327][  0]LogMemory: Process Physical Memory: 98.53 MB used, 98.53 MB peak
+[2019.07.15-12.39.10:327][  0]LogMemory: Process Virtual Memory: 94.70 MB used, 94.70 MB peak
+[2019.07.15-12.39.10:327][  0]LogMemory: Physical Memory: 7919.96 MB used,  8214.85 MB free, 16134.82 MB total
+[2019.07.15-12.39.10:327][  0]LogMemory: Virtual Memory: 4682.09 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.07.15-12.39.10:364][  0]LogInit: Using OS detected language (en-GB).
+[2019.07.15-12.39.10:364][  0]LogInit: Using OS detected locale (en-GB).
+[2019.07.15-12.39.10:366][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.07.15-12.39.10:614][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.15-12.39.10:673][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.15-12.39.10:673][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.15-12.39.10:954][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.15-12.39.10:954][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.15-12.39.11:034][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P1000' (Feature Level 11_0)
+[2019.07.15-12.39.11:034][  0]LogD3D11RHI:       4019/0/8067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.15-12.39.11:051][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.07.15-12.39.11:051][  0]LogD3D11RHI:       128/0/8067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.07.15-12.39.11:054][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.15-12.39.11:054][  0]LogD3D11RHI:       0/0/8067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.15-12.39.11:054][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.15-12.39.11:088][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.15-12.39.11:088][  0]LogD3D11RHI:     GPU DeviceId: 0x1cbb (for the marketing name, search the web for "GPU Device Id")
+[2019.07.15-12.39.11:088][  0]LogWindows: EnumDisplayDevices:
+[2019.07.15-12.39.11:088][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.07.15-12.39.11:088][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.07.15-12.39.11:089][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.07.15-12.39.11:089][  0]LogWindows:    3. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2019.07.15-12.39.11:090][  0]LogWindows:    4. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2019.07.15-12.39.11:090][  0]LogWindows:    5. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2019.07.15-12.39.11:090][  0]LogWindows:    6. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2019.07.15-12.39.11:091][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.07.15-12.39.11:091][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P1000
+[2019.07.15-12.39.11:091][  0]LogD3D11RHI:   Driver Version: 397.97 (internal:24.21.13.9797, unified:397.97)
+[2019.07.15-12.39.11:091][  0]LogD3D11RHI:      Driver Date: 5-24-2018
+[2019.07.15-12.39.11:091][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.07.15-12.39.11:133][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.15-12.39.11:137][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.15-12.39.11:137][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.15-12.39.11:137][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.15-12.39.11:151][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.15-12.39.11:499][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.15-12.39.11:512][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.15-12.39.11:526][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.15-12.39.11:547][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.15-12.39.11:564][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.15-12.39.11:582][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.15-12.39.11:596][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.15-12.39.11:609][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.15-12.39.11:618][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.15-12.39.11:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.15-12.39.11:706][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.15-12.39.11:757][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.15-12.39.11:757][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.15-12.39.11:781][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.15-12.39.11:781][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.15-12.39.11:797][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.15-12.39.11:811][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.15-12.39.11:827][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.15-12.39.11:839][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.15-12.39.11:886][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.15-12.39.11:886][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.15-12.39.11:886][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.15-12.39.11:896][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.15-12.39.11:954][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Intermediate/Shaders/WorkingDirectory/20664/).
+[2019.07.15-12.39.11:954][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ysabela.Bathan.ADM/AppData/Local/Temp/UnrealShaderWorkingDir/1B25FEBB4E1E5CB5E98B30B4211BF2A1/'.
+[2019.07.15-12.39.11:957][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.15-12.39.11:958][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.15-12.39.11:958][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.15-12.39.12:492][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.15-12.39.12:543][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Ysabela.Bathan.ADM/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.15-12.39.12:544][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ysabela.Bathan.ADM/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.15-12.39.12:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.15-12.39.12:544][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.15-12.39.12:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.15-12.39.12:544][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.15-12.39.12:556][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.15-12.39.12:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.15-12.39.12:556][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.15-12.39.12:569][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ysabela.Bathan.ADM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.15-12.39.12:569][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.15-12.39.12:569][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.15-12.39.12:591][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.15-12.39.12:592][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.15-12.39.12:593][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.15-12.39.12:686][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2019.07.15-12.39.12:997][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.15-12.39.13:118][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.15-12.39.13:118][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.15-12.39.13:118][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.15-12.39.13:118][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.15-12.39.13:118][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.15-12.39.13:132][  0]LogNetVersion: M6_Test1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3518090316)
+[2019.07.15-12.39.13:568][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.095039 seconds
+[2019.07.15-12.39.13:574][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.15-12.39.13:574][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.15-12.39.13:574][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.15-12.39.14:504][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.15-12.39.14:518][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.15-12.39.14:629][  0]SourceControl: Source control is disabled
+[2019.07.15-12.39.14:629][  0]SourceControl: Source control is disabled
+[2019.07.15-12.39.14:631][  0]SourceControl: Source control is disabled
+[2019.07.15-12.39.14:632][  0]SourceControl: Source control is disabled
+[2019.07.15-12.39.14:736][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.15-12.39.14:819][  0]LogOcInput: OculusInput pre-init called
+[2019.07.15-12.39.15:594][  0]LogEngine: Initializing Engine...
+[2019.07.15-12.39.15:595][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.15-12.39.15:596][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.15-12.39.15:799][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.15-12.39.15:815][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.15-12.39.15:825][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.15-12.39.15:844][  0]LogInit: FAudioDevice initialized.
+[2019.07.15-12.39.15:844][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.15-12.39.15:906][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Ysabela.Bathan.ADM/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.15-12.39.15:915][  0]LogInit: Texture streaming: Enabled
+[2019.07.15-12.39.15:935][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.15-12.39.15:957][  0]LogInit: Transaction tracking system initialized
+[2019.07.15-12.39.15:983][  0]BlueprintLog: New page: Editor Load
+[2019.07.15-12.39.16:067][  0]LocalizationService: Localization service is disabled
+[2019.07.15-12.39.16:366][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/' took 0.02s
+[2019.07.15-12.39.16:366][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.15-12.39.16:366][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.15-12.39.16:567][  0]SourceControl: Source control is disabled
+[2019.07.15-12.39.16:567][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.15-12.39.16:572][  0]LightingResults: New page: Lighting Build
+[2019.07.15-12.39.16:574][  0]MapCheck: New page: Map Check
+[2019.07.15-12.39.16:574][  0]LightingResults: New page: Lighting Build
+[2019.07.15-12.39.16:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.07.15-12.39.16:880][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.07.15-12.39.16:890][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.15-12.39.16:920][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.07.15-12.39.16:920][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.15-12.39.16:921][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2019.07.15-12.39.16:921][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.353
+[2019.07.15-12.39.18:051][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.15-12.39.18:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-12.39.18:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-12.39.18:145][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-12.39.18:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-12.39.18:163][  0]LogCollectionManager: Loaded 0 collections in 0.001607 seconds
+[2019.07.15-12.39.18:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Collections/' took 0.01s
+[2019.07.15-12.39.18:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Developers/YsabelaBathanADM/Collections/' took 0.01s
+[2019.07.15-12.39.18:203][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Collections/' took 0.01s
+[2019.07.15-12.39.18:203][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.15-12.39.18:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2732 classes and 659 folders.
+[2019.07.15-12.39.18:220][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.15-12.39.18:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:236][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:271][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-12.39.18:473][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.15-12.39.18:503][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.15-12.39.18:574][  0]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.15-12.39.18:577][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.15-12.39.18:584][  0]LogSlate: Took 0.003323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.15-12.39.18:725][  0]LogRenderer: Reallocating scene render targets to support 884x332 Format 10 NumSamples 1 (Frame:1).
+[2019.07.15-12.39.18:909][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.15-12.39.18:909][  0]LogLoad: (Engine Initialization) Total time: 10.88 seconds
+[2019.07.15-12.39.18:909][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.15-12.39.19:167][  0]LogAssetRegistry: Asset discovery search completed in 6.5035 seconds
+[2019.07.15-12.39.19:169][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.15-12.39.19:169][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.07.15-12.39.19:170][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.15-12.39.19:192][  0]LogSlate: Took 0.003346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.15-12.39.20:265][  4]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.15-12.41.13:239][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-12.41.22:602][334]LogAIModule: Creating AISystem for world Enemy_TestMap
+[2019.07.15-12.41.22:619][334]LogAssetEditorManager: Opening Asset editor for World /Game/Enemy_TestMap.Enemy_TestMap
+[2019.07.15-12.41.22:650][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.07.15-12.41.22:651][334]Cmd: MAP LOAD FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Enemy_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.15-12.41.22:651][334]LightingResults: New page: Lighting Build
+[2019.07.15-12.41.22:652][334]LoadErrors: New page: Loading map: Enemy_TestMap.umap
+[2019.07.15-12.41.22:654][334]MapCheck: New page: Map Check
+[2019.07.15-12.41.22:654][334]LightingResults: New page: Lighting Build
+[2019.07.15-12.41.22:679][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.07.15-12.41.22:746][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.15-12.41.22:773][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.07.15-12.41.22:793][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.15-12.41.22:793][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2019.07.15-12.41.22:793][334]LogFileHelpers: Loading map 'Enemy_TestMap' took 0.143
+[2019.07.15-12.41.26:887][647]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GM_Tutorial.GM_Tutorial
+[2019.07.15-12.41.27:261][647]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.07.15-12.41.42:346][827]LogSlate: Window 'GM_Tutorial' being destroyed
+[2019.07.15-12.41.42:355][827]LogSlate: Window 'GM_Tutorial' being destroyed
+[2019.07.15-13.55.53:955][721]LogInit: XAudio2 using 'Speakers (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.15-14.00.21:352][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-17.31.49:574][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootAmount' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootDelay' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootProjectile' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:Timeline_0' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:Cube' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:Cylinder1' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:Cylinder2' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:Cylinder3' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootProjectileLocation1' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootProjectileLocation2' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootProjectileLocation3' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:RotatingMovement' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:StartLocation' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:Cylinder4' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:ShootProjectileLocation4' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C:UserConstructionScript' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.SKEL_BP_Boss_C' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootAmount' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:575][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootDelay' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootProjectile' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:Timeline_0' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:Cube' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:Cylinder1' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:Cylinder2' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:Cylinder3' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootProjectileLocation1' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootProjectileLocation2' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootProjectileLocation3' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:RotatingMovement' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:StartLocation' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:Cylinder4' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:576][424]LogMetaData: Removing '/Game/Blueprints/BP_Boss.BP_Boss_C:ShootProjectileLocation4' ref from Metadata '/Game/BP_Boss.PackageMetaData'
+[2019.07.15-17.31.49:706][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boss" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Boss.uasset" SILENT=true
+[2019.07.15-17.31.49:799][424]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_Boss7F3FB88A4CF55546BE66CBA30DB3B1AB.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Boss.uasset'
+[2019.07.15-17.31.49:822][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Boss" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_Boss.uasset" SILENT=true
+[2019.07.15-17.31.49:879][424]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_Boss5DA5B5224217592E133BC2A2234FE94B.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_Boss.uasset'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.BP_BossProjectile_C' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:ReceiveTick' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:ProjectileMovement' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:Sphere' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:Capsule' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C:UserConstructionScript' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.SKEL_BP_BossProjectile_C' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.BP_BossProjectile_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.BP_BossProjectile_C:ProjectileMovement' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.BP_BossProjectile_C:Sphere' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:208][622]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile.BP_BossProjectile_C:Capsule' ref from Metadata '/Game/BP_BossProjectile.PackageMetaData'
+[2019.07.15-17.31.54:296][622]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_BossProjectileBD73762942F592AE2E55CBB86BFB3585.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_BossProjectile.uasset'
+[2019.07.15-17.31.54:602][622]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2019.07.15-17.31.54:643][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.07.15-17.31.54:676][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.BP_BossProjectile2_C' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:ReceiveTick' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:ProjectileMovement' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:Cube' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:Box' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C:UserConstructionScript' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.SKEL_BP_BossProjectile2_C' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.BP_BossProjectile2_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.BP_BossProjectile2_C:ProjectileMovement' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.BP_BossProjectile2_C:Cube' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:269][803]LogMetaData: Removing '/Game/Blueprints/BP_BossProjectile2.BP_BossProjectile2_C:Box' ref from Metadata '/Game/BP_BossProjectile2.PackageMetaData'
+[2019.07.15-17.31.58:341][803]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_BossProjectile29C4C2850412E8DC0938A049843718615.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_BossProjectile2.uasset'
+[2019.07.15-17.31.58:530][803]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.07.15-17.31.58:568][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.15-17.31.58:601][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.07.15-17.31.58:653][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boss" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Boss.uasset" SILENT=true
+[2019.07.15-17.31.58:743][803]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_Boss81825AC848B45F06C44803A4995E895A.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Boss.uasset'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile_C' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:ReceiveTick' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:Sphere' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:Capsule' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C:UserConstructionScript' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.SKEL_BP_BulletProjectile_C' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile_C:Sphere' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:002][968]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectile.BP_BulletProjectile_C:Capsule' ref from Metadata '/Game/BP_BulletProjectile.PackageMetaData'
+[2019.07.15-17.32.02:075][968]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_BulletProjectile2176E7F04999B8DE432FCAA116D1698D.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_BulletProjectile.uasset'
+[2019.07.15-17.32.02:270][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.07.15-17.32.02:307][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.15-17.32.02:339][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.07.15-17.32.02:396][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_Player.uasset" SILENT=true
+[2019.07.15-17.32.02:488][968]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_Player20D0857A4F8F8D4E329A3AB3F75712BD.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_Player.uasset'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.BP_BulletProjectileEnemy_C' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:ReceiveTick' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:Sphere' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:Capsule' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:ProjectileMovement' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C:UserConstructionScript' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.SKEL_BP_BulletProjectileEnemy_C' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.BP_BulletProjectileEnemy_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.BP_BulletProjectileEnemy_C:Sphere' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.BP_BulletProjectileEnemy_C:Capsule' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:045][145]LogMetaData: Removing '/Game/Blueprints/BP_BulletProjectileEnemy.BP_BulletProjectileEnemy_C:ProjectileMovement' ref from Metadata '/Game/BP_BulletProjectileEnemy.PackageMetaData'
+[2019.07.15-17.32.06:139][145]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_BulletProjectileEnemyD9D8AED54151897B8A7F94A076CD811B.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_BulletProjectileEnemy.uasset'
+[2019.07.15-17.32.06:324][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.07.15-17.32.06:360][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.07.15-17.32.06:391][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.07.15-17.32.06:494][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyPath" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyPath.uasset" SILENT=true
+[2019.07.15-17.32.06:603][145]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPath1805DBE34255598705938BAF934CF8B7.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyPath.uasset'
+[2019.07.15-17.32.06:668][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyTest" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyTest.uasset" SILENT=true
+[2019.07.15-17.32.06:758][145]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTest576026F143C8F916ED1337ABFFD632D4.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyTest.uasset'
+[2019.07.15-17.32.10:139][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:139][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:139][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser:MoveToLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:BndEvt__PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:ShootAmount' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:InLocation' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:LocationPoints' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Timeline_0' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Cube' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Location1' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Location2' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Box' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:LaserSpawn' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Location3' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:Location4' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:PawnSensing' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.SKEL_BP_EnemyLaser_C' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:ShootAmount' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:InLocation' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:LocationPoints' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Timeline_0' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Cube' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Location1' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Location2' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Box' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:LaserSpawn' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Location3' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:Location4' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:PawnSensing' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:140][309]LogMetaData: Removing '/Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyLaser.PackageMetaData'
+[2019.07.15-17.32.10:195][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyLaser" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyLaser.uasset" SILENT=true
+[2019.07.15-17.32.10:248][309]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyLaser8B70D7C24CE8951CA50ACA8FB2A30086.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyLaser.uasset'
+[2019.07.15-17.32.10:263][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyLaser" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyLaser.uasset" SILENT=true
+[2019.07.15-17.32.10:320][309]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyLaserE4B664854E432D7EF60887B277F06625.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyLaser.uasset'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath:GetRandomLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath:GetLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:BndEvt__PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:530][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:MoveToLocationPoints' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:ShootAmount' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:Timeline_0' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:Cube' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:PawnSensing' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:SpawnProjectileLocation' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:MoveLoaction1' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:MoveLoaction2' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:MoveLoaction3' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:Box' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.SKEL_BP_EnemyPath_C' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:MoveToLocationPoints' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:ShootAmount' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:Timeline_0' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:Cube' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:PawnSensing' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:SpawnProjectileLocation' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:MoveLoaction1' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:MoveLoaction2' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:MoveLoaction3' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:Box' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:531][478]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPath.BP_EnemyPath_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyPath.PackageMetaData'
+[2019.07.15-17.32.13:581][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyPath" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPath.uasset" SILENT=true
+[2019.07.15-17.32.13:636][478]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPath4B3CDBA940ADD78AA18807A7728A9714.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPath.uasset'
+[2019.07.15-17.32.13:821][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.07.15-17.32.13:859][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.07.15-17.32.13:891][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.07.15-17.32.16:709][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:709][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:BndEvt__PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:MoveToLocationPoints' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:ShootAmount' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:Timeline_0' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:Cube' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:PawnSensing' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:SpawnProjectileLocation1' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:MoveLoaction1' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:MoveLoaction2' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:MoveLoaction3' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:SpawnProjectileLocation2' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:Box' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.SKEL_BP_EnemyPathDouble_C' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:MoveToLocationPoints' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:ShootAmount' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:Timeline_0' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:Cube' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:PawnSensing' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:SpawnProjectileLocation1' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:MoveLoaction1' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:MoveLoaction2' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:MoveLoaction3' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:SpawnProjectileLocation2' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:Box' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:711][626]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathDouble.BP_EnemyPathDouble_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyPathDouble.PackageMetaData'
+[2019.07.15-17.32.16:817][626]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPathDouble5F2DD1B14FCDCE67A11E2196DFE4025C.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPathDouble.uasset'
+[2019.07.15-17.32.16:829][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyPathDouble" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyPathDouble.uasset" SILENT=true
+[2019.07.15-17.32.16:886][626]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPathDoubleB7CAB1FD4003E4FBD4E9308C3FEFAE1D.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyPathDouble.uasset'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:BndEvt__PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:MoveToLocationPoints' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:ShootAmount' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:Timeline_0' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:Cube' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:PawnSensing' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:SpawnProjectileLocation1' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:MoveLoaction1' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:MoveLoaction2' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:MoveLoaction3' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:Box' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.SKEL_BP_EnemyPathSingle_C' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:CurrentLocationPoint' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:MoveToLocationPoints' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:ShootAmount' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:Timeline_0' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:Cube' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:PawnSensing' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:SpawnProjectileLocation1' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:MoveLoaction1' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:MoveLoaction2' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:MoveLoaction3' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:684][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:Box' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:686][766]LogMetaData: Removing '/Game/Blueprints/BP_EnemyPathSingle.BP_EnemyPathSingle_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_EnemyPathSingle.PackageMetaData'
+[2019.07.15-17.32.19:788][766]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPathSingleA3C512AA4ECC294B7A81B5A571882912.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPathSingle.uasset'
+[2019.07.15-17.32.19:800][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyPathSingle" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyPathSingle.uasset" SILENT=true
+[2019.07.15-17.32.19:855][766]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPathSingle11AE7A9A4E7E5550E8B9DDBCE3DF64EA.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyPathSingle.uasset'
+[2019.07.15-17.32.22:864][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:864][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:864][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:BndEvt__PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:864][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:ShootAmount' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:Cube' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:PawnSensing' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:SpawnProjectileLoaction' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:Box' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.SKEL_BP_EnemyTest_C' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:ShootAmount' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:Cube' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:PawnSensing' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:SpawnProjectileLoaction' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:Box' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:OnSuccess_F5347C2347E4DD70AA8F73BFBB31E13C' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:865][925]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTest.BP_EnemyTest_C:OnFail_F5347C2347E4DD70AA8F73BFBB31E13C' ref from Metadata '/Game/BP_EnemyTest.PackageMetaData'
+[2019.07.15-17.32.22:925][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyTest" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyTest.uasset" SILENT=true
+[2019.07.15-17.32.22:967][925]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTest9D00841947E7F071783CDF87C62BCB26.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyTest.uasset'
+[2019.07.15-17.32.23:147][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.07.15-17.32.23:192][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.07.15-17.32.23:223][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:BndEvt__PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:BndEvt__Box_K2Node_ComponentBoundEvent_6_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:ShootAmount' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:Cube' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:PawnSensing' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:SpawnProjectileLoaction' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:Box' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.SKEL_BP_EnemyTestFollow_C' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:ShootAmount' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:SpawnProjectile' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:Cube' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:PawnSensing' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:SpawnProjectileLoaction' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:Box' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:OnSuccess_6EB946D040D33EAA006BEA9F5AD03092' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:653][ 54]LogMetaData: Removing '/Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow_C:OnFail_6EB946D040D33EAA006BEA9F5AD03092' ref from Metadata '/Game/BP_EnemyTestFollow.PackageMetaData'
+[2019.07.15-17.32.25:739][ 54]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTestFollow9188A26E4D2399DEE54982960593D548.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyTestFollow.uasset'
+[2019.07.15-17.32.25:757][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyTestFollow" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyTestFollow.uasset" SILENT=true
+[2019.07.15-17.32.25:814][ 54]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTestFollowE653EDE44BDFCFCDD4725EA399FDC77D.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_EnemyTestFollow.uasset'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser_C' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:ReceiveTick' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:DefaultSceneRoot' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:Cube' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:Box' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C:UserConstructionScript' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.SKEL_BP_Laser_C' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser_C:DefaultSceneRoot' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser_C:Cube' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:896][271]LogMetaData: Removing '/Game/Blueprints/BP_Laser.BP_Laser_C:Box' ref from Metadata '/Game/BP_Laser.PackageMetaData'
+[2019.07.15-17.32.29:952][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Laser" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Laser.uasset" SILENT=true
+[2019.07.15-17.32.29:968][271]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_Laser1458008D47468787185D7998A7BDC2BB.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Laser.uasset'
+[2019.07.15-17.32.30:150][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.07.15-17.32.30:195][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.07.15-17.32.30:229][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.07.15-17.32.30:290][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyLaser" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyLaser.uasset" SILENT=true
+[2019.07.15-17.32.30:389][271]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyLaser0AC609A8446ED73BF99EEEBF774F26A1.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyLaser.uasset'
+[2019.07.15-17.32.35:723][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:ReceiveTick' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:InpAxisEvt_Movementright_K2Node_InputAxisEvent_3' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:InpAxisEvt_MovementForward_K2Node_InputAxisEvent_4' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:CanShoot' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:ShootAmount' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:MaxSpeed' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:DefaultSceneRoot' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:Camera' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:SM_Cube' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:ProjectileSpawnLocation' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:Box' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C:UserConstructionScript' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:CanShoot' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:ShootAmount' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:MaxSpeed' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:DefaultSceneRoot' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:Camera' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:SM_Cube' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:ProjectileSpawnLocation' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:Box' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:724][561]LogMetaData: Removing '/Game/Blueprints/BP_Player.BP_Player_C:ReceiveTick' ref from Metadata '/Game/BP_Player.PackageMetaData'
+[2019.07.15-17.32.35:787][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2019.07.15-17.32.35:826][561]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_PlayerF121FCF54389D466FD7CB39402C0B645.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Player.uasset'
+[2019.07.15-17.32.35:839][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_Player.uasset" SILENT=true
+[2019.07.15-17.32.35:894][561]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_PlayerC544B197400A426D900D29B40005DC23.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/BP_Player.uasset'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:ReceiveTick' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:DefaultSceneRoot' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:ProjectileMovement' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:Sphere' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:Capsule' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C:UserConstructionScript' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:212][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile_C:DefaultSceneRoot' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:213][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile_C:ProjectileMovement' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:213][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile_C:Sphere' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:213][747]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile_C:Capsule' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2019.07.15-17.32.39:271][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2019.07.15-17.32.39:287][747]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_ProjectileC628CCFA40EF68BA6A8195ACBC5A880C.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_Projectile.uasset'
+[2019.07.15-17.32.39:469][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.07.15-17.32.39:507][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.07.15-17.32.39:539][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.07.15-17.32.39:688][747]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPathDoubleA55B196142DD847A48FDA590C32980D0.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPathDouble.uasset'
+[2019.07.15-17.32.39:824][747]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPathSingleF6927D3740698F1D7A5941AE9D912F4D.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPathSingle.uasset'
+[2019.07.15-17.32.49:796][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-17.32.50:114][328]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.15-17.32.50:137][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.32.50:139][328]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.15-17.32.50:140][328]LogPlayLevel: [PlayLevel] Compiling BP_Boss before play...
+[2019.07.15-17.32.50:351][328]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.07.15-17.32.50:488][328]LogPlayLevel: [PlayLevel] Compiling BP_EnemyLaser before play...
+[2019.07.15-17.32.50:612][328]LogPlayLevel: [PlayLevel] Compiling BP_EnemyPathDouble before play...
+[2019.07.15-17.32.50:742][328]LogPlayLevel: [PlayLevel] Compiling BP_EnemyPathSingle before play...
+[2019.07.15-17.32.50:867][328]LogPlayLevel: [PlayLevel] Compiling BP_EnemyTestFollow before play...
+[2019.07.15-17.32.50:994][328]LogPlayLevel: [PlayLevel] Compiling BP_EnemyPath before play...
+[2019.07.15-17.32.51:120][328]LogPlayLevel: [PlayLevel] Compiling BP_EnemyTest before play...
+[2019.07.15-17.32.51:299][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.07.15-17.32.51:299][328]LogPlayLevel: PlayLevel: Blueprint regeneration took 1160 ms (8 blueprints)
+[2019.07.15-17.32.51:303][328]PIE: New page: PIE session: Enemy_TestMap (15 Jul 2019 19:32:51)
+[2019.07.15-17.32.51:337][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Enemy_TestMap
+[2019.07.15-17.32.51:379][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042137s)
+[2019.07.15-17.32.51:388][328]LogAIModule: Creating AISystem for world Enemy_TestMap
+[2019.07.15-17.32.51:391][328]LogPlayLevel: PIE: World Init took: (0.011849s)
+[2019.07.15-17.32.51:391][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemy_TestMap.Enemy_TestMap to /Game/UEDPIE_0_Enemy_TestMap.Enemy_TestMap (0.055131s)
+[2019.07.15-17.32.51:424][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.07.15-17.32.51:449][328]LogInit: XAudio2 using 'Speakers (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.15-17.32.51:462][328]LogInit: FAudioDevice initialized.
+[2019.07.15-17.32.51:527][328]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.07.15-17.32.51:540][328]LogWorld: Bringing World /Game/UEDPIE_0_Enemy_TestMap.Enemy_TestMap up for play (max tick rate 60) at 2019.07.15-18.32.51
+[2019.07.15-17.32.51:561][328]LogWorld: Bringing up level for play took: 0.025894
+[2019.07.15-17.32.51:625][328]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.07.15-17.32.51:653][328]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.07.15-17.32.51:655][328]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0022 seconds. Added 20 classes and 0 folders.
+[2019.07.15-17.32.51:667][328]PIE: Play in editor start time for /Game/UEDPIE_0_Enemy_TestMap 2.274
+[2019.07.15-17.32.51:692][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.32.57:844][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.32.57:846][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-17.32.57:887][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.15-17.32.57:888][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.32.57:945][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-17.32.58:010][651]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2019.07.15-17.32.58:079][652]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.07.15-17.32.59:252][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-17.33.00:249][777]LogRenderer: Reallocating scene render targets to support 884x340 Format 10 NumSamples 1 (Frame:417605).
+[2019.07.15-17.33.00:300][778]LogRenderer: Reallocating scene render targets to support 884x348 Format 10 NumSamples 1 (Frame:417607).
+[2019.07.15-17.33.00:357][779]LogRenderer: Reallocating scene render targets to support 884x376 Format 10 NumSamples 1 (Frame:417609).
+[2019.07.15-17.33.00:417][780]LogRenderer: Reallocating scene render targets to support 884x400 Format 10 NumSamples 1 (Frame:417611).
+[2019.07.15-17.33.00:468][781]LogRenderer: Reallocating scene render targets to support 884x428 Format 10 NumSamples 1 (Frame:417613).
+[2019.07.15-17.33.00:516][782]LogRenderer: Reallocating scene render targets to support 884x448 Format 10 NumSamples 1 (Frame:417615).
+[2019.07.15-17.33.00:564][783]LogRenderer: Reallocating scene render targets to support 884x464 Format 10 NumSamples 1 (Frame:417617).
+[2019.07.15-17.33.00:617][784]LogRenderer: Reallocating scene render targets to support 884x476 Format 10 NumSamples 1 (Frame:417619).
+[2019.07.15-17.33.00:670][785]LogRenderer: Reallocating scene render targets to support 884x488 Format 10 NumSamples 1 (Frame:417621).
+[2019.07.15-17.33.00:714][786]LogRenderer: Reallocating scene render targets to support 884x492 Format 10 NumSamples 1 (Frame:417623).
+[2019.07.15-17.33.03:454][909]LogRenderer: Reallocating scene render targets to support 888x492 Format 10 NumSamples 1 (Frame:417770).
+[2019.07.15-17.33.03:512][910]LogRenderer: Reallocating scene render targets to support 900x492 Format 10 NumSamples 1 (Frame:417772).
+[2019.07.15-17.33.03:569][911]LogRenderer: Reallocating scene render targets to support 908x492 Format 10 NumSamples 1 (Frame:417774).
+[2019.07.15-17.33.03:632][912]LogRenderer: Reallocating scene render targets to support 924x492 Format 10 NumSamples 1 (Frame:417776).
+[2019.07.15-17.33.03:679][913]LogRenderer: Reallocating scene render targets to support 936x492 Format 10 NumSamples 1 (Frame:417778).
+[2019.07.15-17.33.03:768][915]LogRenderer: Reallocating scene render targets to support 940x492 Format 10 NumSamples 1 (Frame:417782).
+[2019.07.15-17.33.08:276][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.15-17.33.08:291][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.33.08:291][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.15-17.33.08:291][176]PIE: New page: PIE session: Enemy_TestMap (15 Jul 2019 19:33:08)
+[2019.07.15-17.33.08:291][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Enemy_TestMap
+[2019.07.15-17.33.08:303][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011831s)
+[2019.07.15-17.33.08:304][176]LogAIModule: Creating AISystem for world Enemy_TestMap
+[2019.07.15-17.33.08:307][176]LogPlayLevel: PIE: World Init took: (0.003840s)
+[2019.07.15-17.33.08:307][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemy_TestMap.Enemy_TestMap to /Game/UEDPIE_0_Enemy_TestMap.Enemy_TestMap (0.016371s)
+[2019.07.15-17.33.08:381][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.07.15-17.33.08:391][176]LogInit: XAudio2 using 'Speakers (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.15-17.33.08:409][176]LogInit: FAudioDevice initialized.
+[2019.07.15-17.33.08:441][176]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.07.15-17.33.08:444][176]LogWorld: Bringing World /Game/UEDPIE_0_Enemy_TestMap.Enemy_TestMap up for play (max tick rate 60) at 2019.07.15-18.33.08
+[2019.07.15-17.33.08:445][176]LogWorld: Bringing up level for play took: 0.003574
+[2019.07.15-17.33.08:460][176]PIE: Play in editor start time for /Game/UEDPIE_0_Enemy_TestMap 1.067
+[2019.07.15-17.33.08:460][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.33.21:264][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.33.21:265][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-17.33.21:298][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.15-17.33.21:299][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-17.33.21:346][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-17.33.21:351][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.07.15-17.33.21:415][898]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.07.15-17.33.59:911][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.07.15-17.34.00:131][ 87]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Enemy_TestMap_Auto1AF57A22047014EC6228A6A8A5BFBAD98.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Autosaves/Game/Enemy_TestMap_Auto1.umap'
+[2019.07.15-17.34.00:139][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Enemy_TestMap' took 0.259
+[2019.07.15-17.34.00:139][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.259
+[2019.07.15-17.34.00:142][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GM_Tutorial] ([1] browsable assets)...
+[2019.07.15-17.34.00:142][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/GM_Tutorial]
+[2019.07.15-17.34.00:201][ 87]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/GM_Tutorial_Auto178D14F8C4CDB75C1A8BD64B3B6021B6C.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Autosaves/Game/GM_Tutorial_Auto1.uasset'
+[2019.07.15-17.34.00:206][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_EnemyPath] ([1] browsable assets)...
+[2019.07.15-17.34.00:237][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EnemyPath.BP_EnemyPath]
+[2019.07.15-17.34.00:237][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPath]
+[2019.07.15-17.34.00:334][ 87]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPath_Auto1A057B843443A01E792160A9D6AFC61BD.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Autosaves/Game/Blueprints/BP_EnemyPath_Auto1.uasset'
+[2019.07.15-17.34.00:339][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_EnemyTest] ([1] browsable assets)...
+[2019.07.15-17.34.00:372][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EnemyTest.BP_EnemyTest]
+[2019.07.15-17.34.00:372][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyTest]
+[2019.07.15-17.34.00:462][ 87]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTest_Auto18FC9DE994B0AFF47A868BFA1DD31E80B.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Autosaves/Game/Blueprints/BP_EnemyTest_Auto1.uasset'
+[2019.07.15-17.34.00:466][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_EnemyLaser] ([1] browsable assets)...
+[2019.07.15-17.34.00:496][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EnemyLaser.BP_EnemyLaser]
+[2019.07.15-17.34.00:496][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyLaser]
+[2019.07.15-17.34.00:594][ 87]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyLaser_Auto1A34E200D45F4F0F02E6E2CB419288CC7.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Autosaves/Game/Blueprints/BP_EnemyLaser_Auto1.uasset'
+[2019.07.15-17.34.00:600][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_EnemyTestFollow] ([1] browsable assets)...
+[2019.07.15-17.34.00:631][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EnemyTestFollow.BP_EnemyTestFollow]
+[2019.07.15-17.34.00:631][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyTestFollow]
+[2019.07.15-17.34.00:706][ 87]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTestFollow_Auto178E6D7484C43692FDFE7D5B002E2DA57.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Autosaves/Game/Blueprints/BP_EnemyTestFollow_Auto1.uasset'
+[2019.07.15-17.34.00:710][ 87]LogFileHelpers: Auto-saving content packages took 0.568
+[2019.07.15-18.08.21:485][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.15-18.16.43:480][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-19.03.44:860][442]LogUObjectHash: Compacting FUObjectHashTables data took  12.68ms
+[2019.07.15-19.03.45:046][442]LogAIModule: Creating AISystem for world Enemy_TestMap1
+[2019.07.15-19.03.47:465][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.07.15-19.03.48:575][579]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.15-19.03.48:688][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.07.15-19.03.50:145][666]LogAssetEditorManager: Opening Asset editor for World /Game/Enemy_TestMap.Enemy_TestMap
+[2019.07.15-19.03.50:180][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.07.15-19.03.53:419][666]LogSlate: Window 'Save Content' being destroyed
+[2019.07.15-19.03.53:436][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyLaser" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyLaser.uasset" SILENT=true
+[2019.07.15-19.03.53:537][666]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyLaser10EE3E1E4F365C9812363AA1A66808D8.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyLaser.uasset'
+[2019.07.15-19.03.53:542][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyPath" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPath.uasset" SILENT=true
+[2019.07.15-19.03.53:640][666]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyPath127A9AEE422639B146493C8A83C0A037.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyPath.uasset'
+[2019.07.15-19.03.53:646][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyTest" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyTest.uasset" SILENT=true
+[2019.07.15-19.03.53:722][666]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTest938799754D33D6DE87C9E59CDA69F270.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyTest.uasset'
+[2019.07.15-19.03.53:796][666]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/BP_EnemyTestFollowA1B356E643E6002ABB2C7997382F8D82.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Blueprints/BP_EnemyTestFollow.uasset'
+[2019.07.15-19.03.53:834][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.07.15-19.03.54:044][666]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Enemy_TestMap7A9CD5D143D2DAC2F366CFAFF3D0DB64.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Enemy_TestMap.umap'
+[2019.07.15-19.03.54:080][666]LogFileHelpers: Saving map 'Enemy_TestMap' took 0.279
+[2019.07.15-19.03.54:080][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GM_Tutorial" FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/GM_Tutorial.uasset" SILENT=true
+[2019.07.15-19.03.54:137][666]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/GM_TutorialB06AF40B46078C46DDE959B7879A4347.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/GM_Tutorial.uasset'
+[2019.07.15-19.03.54:156][666]Cmd: MAP LOAD FILE="../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Enemy_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.15-19.03.54:158][666]LightingResults: New page: Lighting Build
+[2019.07.15-19.03.54:166][666]LoadErrors: New page: Loading map: Enemy_TestMap.umap
+[2019.07.15-19.03.54:171][666]MapCheck: New page: Map Check
+[2019.07.15-19.03.54:171][666]LightingResults: New page: Lighting Build
+[2019.07.15-19.03.54:211][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.07.15-19.03.54:260][666]LogAIModule: Creating AISystem for world Enemy_TestMap
+[2019.07.15-19.03.54:427][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.15-19.03.54:465][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.07.15-19.03.54:489][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.15-19.03.54:490][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.486ms to complete.
+[2019.07.15-19.03.54:496][666]LogFileHelpers: Loading map 'Enemy_TestMap' took 0.352
+[2019.07.15-19.03.59:323][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-19.04.01:520][ 73]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.15-19.04.03:862][212]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.15-19.04.04:819][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-19.04.04:886][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.15-19.04.04:898][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-19.04.04:898][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.15-19.04.04:899][272]PIE: New page: PIE session: Enemy_TestMap (15 Jul 2019 21:04:04)
+[2019.07.15-19.04.04:899][272]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Enemy_TestMap
+[2019.07.15-19.04.04:907][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007941s)
+[2019.07.15-19.04.04:908][272]LogAIModule: Creating AISystem for world Enemy_TestMap
+[2019.07.15-19.04.04:908][272]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2019.07.15-19.04.04:908][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemy_TestMap.Enemy_TestMap to /Game/UEDPIE_0_Enemy_TestMap.Enemy_TestMap (0.009148s)
+[2019.07.15-19.04.04:937][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.07.15-19.04.04:946][272]LogInit: XAudio2 using 'Speakers (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.15-19.04.04:958][272]LogInit: FAudioDevice initialized.
+[2019.07.15-19.04.04:992][272]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.07.15-19.04.04:996][272]LogWorld: Bringing World /Game/UEDPIE_0_Enemy_TestMap.Enemy_TestMap up for play (max tick rate 60) at 2019.07.15-20.04.04
+[2019.07.15-19.04.04:997][272]LogWorld: Bringing up level for play took: 0.003253
+[2019.07.15-19.04.05:011][272]PIE: Play in editor start time for /Game/UEDPIE_0_Enemy_TestMap -0.381
+[2019.07.15-19.04.05:012][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-19.04.10:363][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-19.04.10:363][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-19.04.10:403][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.15-19.04.10:404][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap' with GeneratedClass '/Game/Enemy_TestMap.Enemy_TestMap_C' with ClassGeneratedBy '/Game/Enemy_TestMap.Enemy_TestMap:PersistentLevel.Enemy_TestMap'
+[2019.07.15-19.04.10:442][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-19.04.10:447][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.07.15-19.04.10:470][592]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.07.15-19.09.28:028][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-19.09.29:242][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.07.15-19.09.30:506][636]LogSlate: Window 'Save Content' being destroyed
+[2019.07.15-19.09.30:572][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.07.15-19.09.30:783][636]LogSavePackage: Moving '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Saved/Enemy_TestMap92C920114838ABDF840DFE8F29B10EB1.tmp' to '../../../../../../Users/Ysabela.Bathan.ADM/Documents/Unreal Projects/M6_Test1/Content/Enemy_TestMap.umap'
+[2019.07.15-19.09.30:811][636]LogFileHelpers: Saving map 'Enemy_TestMap' took 0.271
+[2019.07.15-19.09.30:880][636]LogSlate: Window 'M6_Test1 - Unreal Editor' being destroyed
+[2019.07.15-19.09.31:301][637]Cmd: QUIT_EDITOR
+[2019.07.15-19.09.31:844][637]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.15-19.09.31:865][637]LogExit: Preparing to exit.
+[2019.07.15-19.09.32:323][637]LogExit: Editor shut down
+[2019.07.15-19.09.32:324][637]LogExit: Transaction tracking system shut down
+[2019.07.15-19.09.32:817][637]LogExit: Object subsystem successfully closed.
+[2019.07.15-19.09.32:887][637]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.15-19.09.32:896][637]LogD3D11RHI: Shutdown
+[2019.07.15-19.09.32:896][637]LogD3D11RHI: CleanupD3DDevice
+[2019.07.15-19.09.32:906][637]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.15-19.09.32:906][637]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.15-19.09.32:906][637]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.15-19.09.32:906][637]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.15-19.09.32:906][637]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.15-19.09.32:906][637]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.15-19.09.33:202][637]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.15-19.09.33:314][637]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.07.15-19.09.33:315][637]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.07.15-19.09.33:315][637]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.07.15-19.09.33:315][637]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.07.15-19.09.33:315][637]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.07.15-19.09.33:315][637]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.07.15-19.09.33:320][637]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.07.15-19.09.33:320][637]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.07.15-19.09.33:320][637]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.07.15-19.09.33:321][637]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (632)
+[2019.07.15-19.09.33:321][637]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.07.15-19.09.33:321][637]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.07.15-19.09.33:321][637]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.07.15-19.09.33:325][637]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.07.15-19.09.33:326][637]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.07.15-19.09.33:326][637]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.07.15-19.09.33:326][637]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.07.15-19.09.33:326][637]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.07.15-19.09.33:326][637]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.07.15-19.09.33:327][637]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.07.15-19.09.33:329][637]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.07.15-19.09.33:329][637]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.07.15-19.09.33:330][637]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.07.15-19.09.33:330][637]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.07.15-19.09.33:330][637]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.07.15-19.09.33:332][637]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.07.15-19.09.33:338][637]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.07.15-19.09.33:338][637]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.07.15-19.09.33:339][637]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.07.15-19.09.33:341][637]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.07.15-19.09.33:341][637]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.07.15-19.09.33:341][637]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.07.15-19.09.33:341][637]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.07.15-19.09.33:341][637]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.07.15-19.09.33:341][637]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.07.15-19.09.33:342][637]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.07.15-19.09.33:345][637]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.07.15-19.09.33:345][637]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.07.15-19.09.33:345][637]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.07.15-19.09.33:345][637]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.07.15-19.09.33:345][637]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.07.15-19.09.33:345][637]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.07.15-19.09.33:346][637]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.07.15-19.09.33:347][637]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.07.15-19.09.33:347][637]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.07.15-19.09.33:347][637]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.07.15-19.09.33:348][637]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.07.15-19.09.33:348][637]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.07.15-19.09.33:348][637]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.07.15-19.09.33:350][637]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.07.15-19.09.33:351][637]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.07.15-19.09.33:353][637]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.07.15-19.09.33:355][637]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.07.15-19.09.33:357][637]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.07.15-19.09.33:357][637]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.07.15-19.09.33:357][637]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.07.15-19.09.33:357][637]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.07.15-19.09.33:357][637]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.07.15-19.09.34:172][637]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.07.15-19.09.34:172][637]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.07.15-19.09.34:172][637]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.07.15-19.09.34:172][637]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.07.15-19.09.34:172][637]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.07.15-19.09.34:173][637]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.07.15-19.09.34:174][637]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.07.15-19.09.34:175][637]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.07.15-19.09.34:176][637]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.07.15-19.09.34:177][637]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.07.15-19.09.34:177][637]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.07.15-19.09.34:178][637]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.07.15-19.09.34:179][637]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.07.15-19.09.34:179][637]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.07.15-19.09.34:179][637]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.07.15-19.09.34:179][637]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.07.15-19.09.34:181][637]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.07.15-19.09.34:182][637]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.07.15-19.09.34:182][637]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.07.15-19.09.34:184][637]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.07.15-19.09.34:185][637]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.07.15-19.09.34:185][637]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.07.15-19.09.34:187][637]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.07.15-19.09.34:232][637]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.07.15-19.09.34:234][637]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.07.15-19.09.34:234][637]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.07.15-19.09.34:237][637]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.07.15-19.09.34:237][637]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.07.15-19.09.34:238][637]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.07.15-19.09.34:238][637]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.07.15-19.09.34:241][637]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.07.15-19.09.34:242][637]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.07.15-19.09.34:242][637]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.07.15-19.09.34:243][637]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.07.15-19.09.34:252][637]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.07.15-19.09.34:256][637]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.07.15-19.09.34:256][637]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.07.15-19.09.34:257][637]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.07.15-19.09.34:257][637]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.07.15-19.09.34:258][637]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.07.15-19.09.34:258][637]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.07.15-19.09.34:259][637]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.07.15-19.09.34:259][637]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.07.15-19.09.34:259][637]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.07.15-19.09.34:259][637]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.07.15-19.09.34:260][637]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.07.15-19.09.34:260][637]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.07.15-19.09.34:261][637]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.07.15-19.09.34:262][637]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.07.15-19.09.34:268][637]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.07.15-19.09.34:412][637]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.07.15-19.09.34:413][637]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.07.15-19.09.34:413][637]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.07.15-19.09.34:414][637]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.07.15-19.09.34:414][637]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.07.15-19.09.34:414][637]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.07.15-19.09.34:415][637]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.07.15-19.09.34:415][637]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.07.15-19.09.34:416][637]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.07.15-19.09.34:419][637]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.07.15-19.09.34:419][637]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.07.15-19.09.34:419][637]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.07.15-19.09.34:419][637]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.07.15-19.09.34:419][637]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.07.15-19.09.34:419][637]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.07.15-19.09.34:420][637]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.07.15-19.09.34:421][637]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.07.15-19.09.34:421][637]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.07.15-19.09.34:421][637]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.07.15-19.09.34:421][637]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.07.15-19.09.34:421][637]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.07.15-19.09.34:423][637]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.07.15-19.09.34:423][637]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.07.15-19.09.34:427][637]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.07.15-19.09.34:428][637]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.07.15-19.09.34:429][637]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.15-19.09.34:429][637]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.15-19.09.34:429][637]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.15-19.09.34:430][637]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.15-19.09.34:430][637]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.15-19.09.34:430][637]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.15-19.09.34:432][637]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.15-19.09.34:435][637]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.15-19.09.34:437][637]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.15-19.09.34:437][637]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.15-19.09.34:438][637]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.07.15-19.09.34:438][637]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.07.15-19.09.34:438][637]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.07.15-19.09.34:438][637]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.07.15-19.09.34:439][637]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.07.15-19.09.34:439][637]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.07.15-19.09.34:439][637]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.07.15-19.09.34:441][637]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.07.15-19.09.34:441][637]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.07.15-19.09.34:441][637]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.07.15-19.09.34:442][637]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.07.15-19.09.34:442][637]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.15-19.09.34:442][637]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.15-19.09.34:442][637]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.15-19.09.34:542][637]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.15-19.09.34:644][637]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.07.15-19.09.34:644][637]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.07.15-19.09.34:644][637]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.07.15-19.09.34:645][637]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.07.15-19.09.34:645][637]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.07.15-19.09.34:646][637]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.07.15-19.09.34:646][637]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.07.15-19.09.34:648][637]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.07.15-19.09.34:652][637]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.07.15-19.09.34:653][637]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.07.15-19.09.34:654][637]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.07.15-19.09.34:654][637]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.07.15-19.09.34:656][637]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.07.15-19.09.34:658][637]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.07.15-19.09.34:659][637]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.07.15-19.09.34:660][637]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.07.15-19.09.34:662][637]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.07.15-19.09.34:662][637]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.07.15-19.09.34:662][637]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.07.15-19.09.34:662][637]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.07.15-19.09.34:663][637]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.07.15-19.09.34:663][637]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.07.15-19.09.34:663][637]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.07.15-19.09.34:666][637]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.07.15-19.09.34:666][637]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.07.15-19.09.34:668][637]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.07.15-19.09.34:671][637]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.07.15-19.09.34:671][637]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.07.15-19.09.34:672][637]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.07.15-19.09.34:676][637]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.07.15-19.09.34:676][637]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.07.15-19.09.34:678][637]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.07.15-19.09.34:678][637]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.07.15-19.09.34:684][637]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.07.15-19.09.34:685][637]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.07.15-19.09.34:685][637]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.07.15-19.09.34:685][637]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.07.15-19.09.34:685][637]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.07.15-19.09.34:686][637]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.07.15-19.09.34:686][637]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.07.15-19.09.34:688][637]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.07.15-19.09.34:689][637]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.07.15-19.09.34:690][637]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.07.15-19.09.34:733][637]LogDerivedDataCache: Shutdown
+[2019.07.15-19.09.34:733][637]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.07.15-19.09.34:734][637]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.07.15-19.09.34:735][637]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.07.15-19.09.34:735][637]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.07.15-19.09.34:735][637]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.07.15-19.09.34:735][637]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.07.15-19.09.34:736][637]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.07.15-19.09.34:736][637]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.07.15-19.09.34:736][637]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.07.15-19.09.34:736][637]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.07.15-19.09.34:736][637]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.07.15-19.09.34:738][637]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.07.15-19.09.34:749][637]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.07.15-19.09.34:749][637]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.07.15-19.09.34:749][637]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.07.15-19.09.34:749][637]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.07.15-19.09.34:749][637]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.07.15-19.09.34:754][637]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.07.15-19.09.34:754][637]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.07.15-19.09.34:757][637]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.07.15-19.09.34:758][637]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.07.15-19.09.34:786][637]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.07.15-19.09.34:786][637]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.07.15-19.09.34:787][637]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.07.15-19.09.34:787][637]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.07.15-19.09.34:788][637]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.07.15-19.09.34:788][637]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.07.15-19.09.34:788][637]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.07.15-19.09.34:789][637]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.07.15-19.09.34:789][637]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.07.15-19.09.34:789][637]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.07.15-19.09.34:789][637]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.07.15-19.09.34:789][637]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.07.15-19.09.34:790][637]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.15-19.09.34:790][637]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.15-19.09.34:790][637]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.15-19.09.34:790][637]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.15-19.09.34:791][637]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.15-19.09.34:791][637]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.15-19.09.34:791][637]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.15-19.09.34:791][637]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.15-19.09.34:793][637]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.15-19.09.34:794][637]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.15-19.09.34:804][637]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.15-19.09.34:804][637]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.15-19.09.34:804][637]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5DA443E-45F1-1205-26D4-20A9FAF208AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3fe43ae2442a839556943ba1b649cddf%7Cbd270d1764be45a4b961782513891f84%7C6672097c-5554-4299-bb53-23e773503add&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.15-19.09.34:805][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.35:306][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.35:806][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.36:307][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.36:808][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.37:309][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.37:810][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.15-19.09.38:310][637]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
