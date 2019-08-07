@@ -1,0 +1,449 @@
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/M_FlatBG_I.uasset" 0
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/M_FlatWall_I.uasset" 1
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Boss_V3_lambert1_BaseColor.uasset" 2
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Boss_V3_lambert1_Emissive.uasset" 3
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Boss_V3_lambert1_Normal.uasset" 4
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Boss_V3_lambert1_OcclusionRoughnessMetallic.uasset" 5
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/EnemyMaterials/Boss2Material.uasset" 6
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Character_V7_lambert1_BaseColor.uasset" 7
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Character_V7_lambert1_Emissive.uasset" 8
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Character_V7_lambert1_Normal.uasset" 9
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Character_V7_lambert1_OcclusionRoughnessMetallic.uasset" 10
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Player/JanitorShipMaterial.uasset" 11
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/Boss_2_v1.uasset" 12
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/M6_Large_Enemy_Ship_Low_Poly_24_07_2019_CP.uasset" 13
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/M6_Medium_Enemy_Ship_Low_Poly_24_07_2019_CP.uasset" 14
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/M6_Small_Enemy_Ship_Low_Poly_24_07_2019_CP.uasset" 15
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Garbage_Truck_v3_lambert1_BaseColor.uasset" 16
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Garbage_Truck_v3_lambert1_Emissive.uasset" 17
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Garbage_Truck_v3_lambert1_Normal.uasset" 18
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Garbage_Truck_v3_lambert1_OcclusionRoughnessMetallic.uasset" 19
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Player/GarbageTruckMaterial.uasset" 20
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Player/Garbage_Truck_v3.uasset" 21
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/1001_2.uasset" 22
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/1001_3.uasset" 23
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/1001_4.uasset" 24
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/1001_5.uasset" 25
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/1001_6.uasset" 26
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/Muzzle/Muzzle_Fire.uasset" 27
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/Muzzle/M_muzzle_flash.uasset" 28
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/Muzzle/Muzzle_Flash.uasset" 29
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 30
+"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset" 31
+"../../../Engine/Content/EngineMeshes/ParticleCube.uasset" 32
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/Muzzle/P_Muzzle_Flash.uasset" 33
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Boss_V3_lambert1_Emissive1.uasset" 34
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/HitFXTexture.uasset" 35
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BIN_WAGON_V2_020819_JB_mb_1001_OcclusionRoughnessMetallic.uasset" 36
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Buttons_Unlit/Controls_Off.uasset" 37
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Buttons_Unlit/Objective_Off.uasset" 38
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Buttons_Lit/Back_On.uasset" 39
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Buttons_Lit/Music_On.uasset" 40
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Buttons_Lit/Sound_FX_On.uasset" 41
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Buttons__Unlit/Back_Off.uasset" 42
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Buttons__Unlit/Music_Off.uasset" 43
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Buttons__Unlit/Sound_FX_Off.uasset" 44
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Selection_Box/Off_Deselected.uasset" 45
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Selection_Box/Off_Selected.uasset" 46
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Selection_Box/On_Deselected.uasset" 47
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Selection_Box/On_Selected.uasset" 48
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Buttons_Lit/Exit_Game_On.uasset" 49
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Buttons_Lit/How_To_On.uasset" 50
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Buttons_Lit/Options_On.uasset" 51
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Buttons_Unlit/Exit_Game_Off.uasset" 52
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Buttons_Unlit/How_To_Play_Off.uasset" 53
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Buttons_Unlit/Options_Off.uasset" 54
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 55
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GeneralGameBP/BP_CameraShake.uasset" 56
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Glow.uasset" 57
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Glow_Projectile.uasset" 58
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/SM_Pixel_Cube.uasset" 59
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/T_sunflare.uasset" 60
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Particles/m_flare_03.uasset" 61
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Particles/M_Pixel_Cube_Particle.uasset" 62
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/P_Pixel_Explosion.uasset" 63
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PlayerProjectiles/BP_ProjectilePlayerBase.uasset" 64
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Glow_Body2.uasset" 65
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PowerUps/BP_PickUp_AddShield.uasset" 66
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Glow_Body.uasset" 67
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/M6_Pickup_2_Low_Poly_24_07_2019_CP.uasset" 68
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PowerUps/BP_PickUp_DefaultFireRate.uasset" 69
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/M6_Pickup_1_Low_Poly_24_07_2019_CP.uasset" 70
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PowerUps/BP_PickUp_NewWeaponMode.uasset" 71
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Audio/Explosion.uasset" 72
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/P_Pixel_Explosion_Player.uasset" 73
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemyBase.uasset" 74
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Glow_Projectile1.uasset" 75
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/SM_Pixel_Cube1.uasset" 76
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyProjectiles/BP_ProjectileEnemyBase.uasset" 77
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyProjectiles/BP_ProjectileEnemyDefault.uasset" 78
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Small_Enemy_Ship_Maya_CP_lambert1_BaseColor.uasset" 79
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Small_Enemy_Ship_Maya_CP_lambert1_Emissive.uasset" 80
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Small_Enemy_Ship_Maya_CP_lambert1_Normal.uasset" 81
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Small_Enemy_Ship_Maya_CP_lambert1_OcclusionRoughnessMetallic.uasset" 82
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/EnemyMaterials/SmallEnemyMaterial.uasset" 83
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/lambert1.uasset" 84
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/Small_Enemy_Ship_Maya_CP.uasset" 85
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemyType1SingleShot.uasset" 86
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Medium_Enemy_Ship_Maya_CP_lambert1_BaseColor.uasset" 87
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Medium_Enemy_Ship_Maya_CP_lambert1_Emissive.uasset" 88
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Medium_Enemy_Ship_Maya_CP_lambert1_Normal.uasset" 89
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Medium_Enemy_Ship_Maya_CP_lambert1_OcclusionRoughnessMetallic.uasset" 90
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/EnemyMaterials/MediumEnemyMaterial.uasset" 91
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/Medium_Enemy_Ship_Maya_CP.uasset" 92
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemyType2DualShot.uasset" 93
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyProjectiles/BP_ProjectileEnemyLaser.uasset" 94
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Large_Enemy_Ship_Maya_CP_lambert1_BaseColor.uasset" 95
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Large_Enemy_Ship_Maya_CP_lambert1_Emissive.uasset" 96
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Large_Enemy_Ship_Maya_CP_lambert1_Normal.uasset" 97
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Large_Enemy_Ship_Maya_CP_lambert1_OcclusionRoughnessMetallic.uasset" 98
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/EnemyMaterials/LargeEnemyMaterial.uasset" 99
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/Large_Enemy_Ship_Maya_CP.uasset" 100
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemyTypeLaserShot.uasset" 101
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemySpawnerHard.uasset" 102
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_GRID_V1_300719_JB_mb_1001_BaseColor.uasset" 103
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_GRID_V1_300719_JB_mb_1001_Emissive.uasset" 104
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_GRID_V1_300719_JB_mb_1001_Normal.uasset" 105
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_GRID_V1_300719_JB_mb_1001_OcclusionRoughnessMetallic.uasset" 106
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Floor_Bright.uasset" 107
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/_Normal.uasset" 108
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/BaseColor.uasset" 109
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Emissive.uasset" 110
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/OcclusionRoughnessMetallic.uasset" 111
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Objects/Wallmaterial.uasset" 112
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Glow_PickUp.uasset" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 114
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 115
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 116
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 117
+"../../../Engine/Content/BasicShapes/Cube.uasset" 118
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Floor/FloorMesh.uasset" 119
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/CellWallsMesh.uasset" 120
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_BaseCell.uasset" 121
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/EnemyMaterials/Boss1Material.uasset" 122
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Enemies/Boss_V3.uasset" 123
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_Boss1.uasset" 124
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/BPW_EnemyHP.uasset" 125
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_BossTrigger.uasset" 126
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_HardCell1.uasset" 127
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_HardCell2.uasset" 128
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_HardCell3.uasset" 129
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_BUILDINGS_KIT_4_BOSS_V1_060819_JB_1001_BaseColor.uasset" 130
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_BUILDINGS_KIT_4_BOSS_V1_060819_JB_1001_Emissive.uasset" 131
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_BUILDINGS_KIT_4_BOSS_V1_060819_JB_1001_Normal.uasset" 132
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_ENVIRONMENT_BUILDINGS_KIT_4_BOSS_V1_060819_JB_1001_OcclusionRoughnessMetallic.uasset" 133
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Objects/BossWallMaterial.uasset" 134
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Walls/BossWallMesh.uasset" 135
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/Gate.uasset" 136
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Glow/M_Floor_LowerBright.uasset" 137
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_Level1BossCell.uasset" 138
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_Level2BossCell.uasset" 139
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemySpawnerMedium.uasset" 140
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_MediumCell1.uasset" 141
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_MediumCell2.uasset" 142
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_MediumCell3.uasset" 143
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemySpawnerNormal.uasset" 144
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_NormalCell1.uasset" 145
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_NormalCell2.uasset" 146
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_NormalCell3.uasset" 147
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BILLBOARD_1_V2_310719_JB_spp_1001_OcclusionRoughnessMetallic.uasset" 148
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BIN_WAGON_V2_020819_JB_mb_1001_BaseColor.uasset" 149
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BIN_WAGON_V2_020819_JB_mb_1001_Emissive.uasset" 150
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BIN_WAGON_V2_020819_JB_mb_1001_Normal.uasset" 151
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Objects/TruckMaterial.uasset" 152
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Obstacles/ObstacleTruck.uasset" 153
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_ObstaclePosition1.uasset" 154
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BILLBOARD_1_V2_310719_JB_spp_1001_BaseColor.uasset" 155
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BILLBOARD_1_V2_310719_JB_spp_1001_Emissive.uasset" 156
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/M6_LOW_POLY_OBSTACLE_BILLBOARD_1_V2_310719_JB_spp_1001_Normal.uasset" 157
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Objects/BillboardMaterial.uasset" 158
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Obstacles/ObstacleBoard.uasset" 159
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_ObstaclePosition2.uasset" 160
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_ObstaclePosition3.uasset" 161
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_ObstaclePosition4.uasset" 162
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_ObstaclePosition5.uasset" 163
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_SpawnerCellHard.uasset" 164
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_SpawnerCellMedium.uasset" 165
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_SpawnerCellNormal.uasset" 166
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GeneralGameBP/BP_SaveGame.uasset" 167
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Audio/BGM.uasset" 168
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Audio/BGM_Cue.uasset" 169
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/BPW_GameOver.uasset" 170
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/BPW_HUD.uasset" 171
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Buttons_Lit/Back_On.uasset" 172
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Buttons_Unlit/Back_Off.uasset" 173
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Options_Background.uasset" 174
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/OptionsTitle.uasset" 175
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Sliders/Music_Slider.uasset" 176
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Options/Sliders/Music_Slider_Bob.uasset" 177
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Lit/Exit_Game_On.uasset" 178
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Lit/How_To_On.uasset" 179
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Lit/Options_On.uasset" 180
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Lit/Start_On.uasset" 181
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Unlit/Exit_Game_Off.uasset" 182
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Unlit/How_To_Play_Off.uasset" 183
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Unlit/Options_Off.uasset" 184
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/Buttons_Unlit/Start_Off.uasset" 185
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Main_Menu/MainMenu_Background.uasset" 186
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Buttons_Lit/Controls_On.uasset" 187
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Buttons_Lit/Objective_On.uasset" 188
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/How_To_Play_Title.uasset" 189
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/HTP_Background.uasset" 190
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/Keyboard.uasset" 191
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/How_To_Play/ObjectiveDesc.uasset" 192
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/HowToPlayWidget.uasset" 193
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Level_Select/LS_Background.uasset" 194
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/LevelSelectWidget.uasset" 195
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/MainMenuWidget.uasset" 196
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/OptionsWidget.uasset" 197
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GeneralGameBP/BP_GameMode.uasset" 198
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PlayerProjectiles/BP_ProjectilePlayerPrimary.uasset" 199
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PlayerProjectiles/BP_ProjectilePlayerSecondary.uasset" 200
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 201
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Player/ShieldMaterial.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 203
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 204
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Audio/ShieldHit.uasset" 205
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PowerUps/BP_PowerUp_Shield.uasset" 206
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Player_v1_lambert1_BaseColor.uasset" 207
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Player_v1_lambert1_Emissive.uasset" 208
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Player_v1_lambert1_Normal.uasset" 209
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Textures/Player_v1_lambert1_OcclusionRoughnessMetallic.uasset" 210
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Player/SpaceShipMaterial.uasset" 211
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Audio/LaserClip.uasset" 212
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Audio/ShieldEffect.uasset" 213
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Player/Companion_v1__1_.uasset" 214
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Player/Player_Character.uasset" 215
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/P_Default_Weapon.uasset" 216
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Particles/M_Radial_Gradient.uasset" 217
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Particles/P_Pixel_Engine.uasset" 218
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/BP_Player.uasset" 219
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/pasted__lambert2.uasset" 220
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/pasted__lambert3.uasset" 221
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Pickups/Companion_Pick_Up.uasset" 222
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PowerUps/BP_PickUp_CloneShips.uasset" 223
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/PickUps/BP_PickUp_CloneShips.uasset" 224
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_PickUp_CloneShips.uasset" 225
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/PickUps/BP_PickUp_DefaultFireRate.uasset" 226
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_PickUp_DefaultFireRate.uasset" 227
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/PowerUps/BP_PickUp_NewWeaponMode.uasset" 228
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/WeaponCollectible/BP_PickUp_NewWeaponMode.uasset" 229
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_PickUp_NewWeaponMode.uasset" 230
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_ProjectileEnemyBase.uasset" 231
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_ProjectileEnemyDefault.uasset" 232
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_ProjectilePlayerBase.uasset" 233
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_ProjectilePlayerPrimary.uasset" 234
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_ProjectilePlayerSecondary.uasset" 235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset" 236
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Skybox/SkyboxSettings.uasset" 237
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Skybox/skybox.uasset" 238
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Materials/Skybox/skyboxMaterials.uasset" 239
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 240
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 241
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 242
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 243
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 244
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/BP_SkyBox.uasset" 245
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_SkyBox.uasset" 246
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EndlessCells/BP_PreBoss.uasset" 247
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_Boss2.uasset" 248
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemyLaserBase.uasset" 249
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemySpawner.uasset" 250
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyAI/BP_EnemySpawnerBoss.uasset" 251
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/Player/PlayerProjectiles/BP_ProjectilePlayerBase1.uasset" 252
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 253
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 254
+"../../../Engine/Content/BasicShapes/Cone.uasset" 255
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 256
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 257
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 258
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 259
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 260
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 261
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 262
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 263
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 264
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 265
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 266
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 267
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 268
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 269
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 270
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 271
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 272
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 273
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 274
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 275
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 276
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 277
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 278
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 279
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 280
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 281
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 282
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 283
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 284
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 285
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 286
+"../../../Engine/Content/EditorResources/S_Note.uasset" 287
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 288
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 289
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 290
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 291
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 292
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 293
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 294
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 295
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 296
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 297
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 298
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 299
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 300
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 301
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 302
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 303
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 304
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 305
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 306
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 307
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 308
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 309
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 310
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 311
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 312
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 313
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 314
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 315
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 316
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 317
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 318
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 319
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 320
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 321
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 323
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 324
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 325
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 326
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 327
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 328
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 329
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 330
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 331
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 332
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 333
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 334
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 335
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 336
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 337
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 338
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 339
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 340
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 341
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 342
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 343
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 344
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 345
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 346
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 347
+"../../../Engine/Content/EngineResources/Black.uasset" 348
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 349
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 350
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 351
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 352
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 353
+"../../../Engine/Content/EngineSounds/Master.uasset" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 355
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 356
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 357
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 358
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 359
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 361
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 362
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 363
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 364
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 365
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 366
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 367
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 368
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 369
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 370
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 371
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 372
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 373
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 374
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 375
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 376
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 377
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 378
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 379
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 380
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 381
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 382
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 383
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 384
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 385
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 386
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 387
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 388
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 389
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 390
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 391
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 392
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 393
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 394
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 395
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 396
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 397
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 398
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 399
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 400
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 402
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 404
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 405
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 406
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 407
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 408
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 409
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 410
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 411
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 412
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 413
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 414
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 415
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 416
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 417
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 418
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 419
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 420
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/EnemyProjectiles/BP_BulletFilter.uasset" 421
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GeneralGameBP/BP_MovingCamera.uasset" 422
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 423
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/BP_BFilter.uasset" 424
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/LevelOne_BuiltData.uasset" 425
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Pause_Background.uasset" 426
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/PauseMenu/Pause_Title.uasset" 427
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/PauseWidget.uasset" 428
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/LevelOne.umap" 429
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_BulletFilter.uasset" 430
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_GameMode.uasset" 431
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_MovingCamera.uasset" 432
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/BP_Player.uasset" 433
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/LevelTwo_BuiltData.uasset" 434
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/LevelTwo.umap" 435
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/LevelTwoOld_BuiltData.uasset" 436
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/LevelTwoOld.umap" 437
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/Meshes/Player/Character_V7.uasset" 438
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/BP_MenuShip.uasset" 439
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/MainMenu_BuiltData.uasset" 440
+"../../../Engine/Content/BasicShapes/Plane.uasset" 441
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Title_StartScreen/CD_Background_WIP_CP_V2.uasset" 442
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Title_StartScreen/CD_PETP_CP.uasset" 443
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Assets/UI/Title_StartScreen/CD_Title_Card_CP.uasset" 444
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Blueprints/GUI/StartWidget.uasset" 445
+"V:/Unreal BU/060819/Pre Presentation Project 070819/Content/Maps/MainMenu.umap" 446
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 447
+"../../../Engine/Content/Maps/Entry.umap" 448
